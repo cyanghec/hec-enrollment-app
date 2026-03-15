@@ -1,4 +1,4 @@
-# HEC Paris Deep Tech & AI Concentration — Enrollment App Workflow
+# HEC Paris Tech & AI Concentration — Enrollment App Workflow
 
 > **Live app:** https://hec-enrollment-app.netlify.app
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-The app manages enrollment in the **Deep Tech & AI Concentration** for HEC Paris MBA students. It has two roles — **Admin** (program director) and **Student** — and handles:
+The app manages enrollment in the **Tech & AI Concentration** for HEC Paris MBA students. It has two roles — **Admin** (program director) and **Student** — and handles:
 
 - Concentration interest collection
 - Mandatory + elective course registration
@@ -18,12 +18,12 @@ The app manages enrollment in the **Deep Tech & AI Concentration** for HEC Paris
 
 ## Cohorts
 
-| Cohort | Label | AI Fundamentals |
+| Cohort | Label | Finish Date |
 |---|---|---|
-| J26 16mo | January 2026 · 16 months | Completed (Dec 2026) |
-| S26 16mo | September 2026 · 16 months | Feb 2027 run |
-| J27 12mo | January 2027 · 12 months | Dec 2027 run |
-| J27 16mo | January 2027 · 16 months | Feb 2027 run (exchange-safe) |
+| J26 16mo | January 2026 · 16 months | Apr 2027 |
+| S26 16mo | September 2026 · 16 months | Dec 2027 |
+| J27 12mo | January 2027 · 12 months | Dec 2027 (no exchange) |
+| J27 16mo | January 2027 · 16 months | April 2028|
 
 ---
 
